@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi there profile 施工中 ... </h1>
+<h1 align="center"> 👋 Hi, profile 施工中 ... </h1>
 
 <p align="center">
   <samp>
