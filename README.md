@@ -10,7 +10,7 @@
 
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RubiaCx&show_icons=true&theme=tokyonight&hide_border=true&theme=radical" width="50%">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubiaCx&show_icons=true&hide_border=true&theme=radical" width="50%">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubiaCx&show_icons=true&hide_border=true&theme=radical" width="50%"> -->
 
 WELCOME ✨
 
@@ -24,6 +24,7 @@ WELCOME ✨
 🧠 正在学习: 
 
 &emsp;&emsp;
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
