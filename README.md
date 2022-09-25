@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 ![](https://github-readme-stats.vercel.app/api?username=RubiaCx&show_icons=true&theme=dark&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RubiaCx&theme=dark&layout=compact)
 
