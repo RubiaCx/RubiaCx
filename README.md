@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi there profile 施工中 ... </h1>
+<h1 align="center"> 👋 Hi there profile 施工中 ... </h3>
 
 <p align="center">
   <samp>
@@ -9,32 +9,23 @@
 </p>
 
 ---
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RubiaCx&show_icons=true&theme=tokyonight&hide_border=true&theme=radical" width="50%">
+
+WELCOME ✨
+- ✍️ 就读于湖南大学计算机科学与技术专业
+- 🌱 努力学习ing
+- 💬 啥也不懂，还是不要联系我为好
+- ⚡ Fall guys ⚡
+
+
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
-
-<p>✍️&nbsp;&nbsp;大家好，我是小孙同学! 目前就读于安徽理工大学地理信息科学专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
-<!--
-**RubiaCx/RubiaCx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RubiaCx" /> </div>
 
 
-![](https://github-readme-stats.vercel.app/api?username=RubiaCx&show_icons=true&theme=dark&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RubiaCx&theme=dark&layout=compact)
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RubiaCx" /> </div>
+
