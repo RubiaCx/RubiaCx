@@ -5,13 +5,10 @@
     <a href="https://github.com/RubiaCx">github</a> ∙ 
     <a href="https://space.bilibili.com/1819812">bilibili</a> ∙
     <a href="https://blog.csdn.net/RubiaC">csdn</a>
-<!--     <a href="https://blog.bj-yan.top/">blog</a> ∙
-    <a href="https://nav.bj-yan.top/">nav</a> ∙
-    <a href="https://www.bj-yan.top/pdf/cv_en.pdf">cv</a> ∙  -->
   </samp>
 </p>
-统计
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+<!-- 统计访问次数 -->
+![Visitor Count](https://profile-counter.glitch.me/RubiaCx/count.svg)
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
