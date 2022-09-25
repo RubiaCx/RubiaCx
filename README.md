@@ -1,4 +1,21 @@
-#  👋 Hi there profile 施工中 ...
+<h1 align="center"> 👋 Hi there profile 施工中 ... </h3>
+
+<p align="center">
+  <samp>
+    <a href="https://github.com/RubiaCx">github</a> ∙ 
+    <a href="https://space.bilibili.com/1819812">bilibili</a> ∙
+    <a href="https://blog.csdn.net/RubiaC">csdn</a>
+<!--     <a href="https://blog.bj-yan.top/">blog</a> ∙
+    <a href="https://nav.bj-yan.top/">nav</a> ∙
+    <a href="https://www.bj-yan.top/pdf/cv_en.pdf">cv</a> ∙  -->
+  </samp>
+</p>
+统计
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 
 <p>✍️&nbsp;&nbsp;大家好，我是小孙同学! 目前就读于安徽理工大学地理信息科学专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
@@ -18,8 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=RubiaCx&show_icons=true&theme=dark&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RubiaCx&theme=dark&layout=compact)
