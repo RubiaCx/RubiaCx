@@ -19,7 +19,8 @@
 - ⚡ Fall guys ⚡
 
 &emsp;&emsp; 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubiaCx&show_icons=true&hide_border=true&theme=radical" width="30%"> 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubiaCx&show_icons=true&hide_border=true&theme=tokyonight" width="30%"> 
 
 ### 正在学习 🧠 
 
