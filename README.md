@@ -9,7 +9,7 @@
 </p>
 
 ---
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RubiaCx&show_icons=true&theme=tokyonight&hide_border=true&theme=radical" width="50%">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RubiaCx&show_icons=true&hide_border=true&theme=flag-india" width="50%">
 
 ### WELCOME ✨
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp; 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubiaCx&show_icons=true&hide_border=true&theme=tokyonight" width="30%"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubiaCx&show_icons=true&hide_border=true&theme=buefy" width="30%"> 
 
 ### 正在学习 🧠 
 
