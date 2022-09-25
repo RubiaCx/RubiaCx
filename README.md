@@ -21,7 +21,7 @@ WELCOME ✨
 - 💬 啥也不懂，还是不要联系我为好
 - ⚡ Fall guys ⚡
 
-🧠 正在学习: 
+正在学习 🧠 
 
 &emsp;&emsp;
 
@@ -32,9 +32,10 @@ WELCOME ✨
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
-🧰 常用的工具:
+常用的工具 🧰 
 
 &emsp;&emsp; 
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
