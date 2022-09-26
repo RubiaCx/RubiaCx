@@ -43,7 +43,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-![WIKI](https://img.shields.io/badge/style=flat-square&logo=WIKI&logoColor=white)
+![WIKI](https://img.shields.io/badge/wiki?icon=wiki?style=flat-square)
 ![LLVM](https://img.shields.io/badge/style=flat-square&logo=LLVM&logoColor=white)
 
 &emsp;&emsp; 
