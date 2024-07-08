@@ -1,4 +1,4 @@
-<h3 align="center"> 👋 Hi, profile 施工中 ... </h3>
+<h3 align="center"> 👋 Hi, profile 永久施工中 ... </h3>
 
 <p align="center">
   <samp>
@@ -13,10 +13,10 @@
 
 ### WELCOME ✨
 
-- ✍️ 就读于湖南大学计算机科学与技术专业
+- ✍️ 就读于计算所，毕业于湖南大学
 - 🌱 努力学习ing
-- 💬 啥也不懂，还是不要联系我为好
-- ⚡ Fall guys ⚡
+- 💬 啥也不懂
+- 🪵 崩了：https://rubianotion.vercel.app/
 
 &emsp;&emsp; 
 
