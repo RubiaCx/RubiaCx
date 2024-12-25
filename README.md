@@ -3,8 +3,8 @@
 <p align="center">
   <samp>
     <a href="https://github.com/RubiaCx">github</a> ∙ 
-    <a href="https://space.bilibili.com/1819812">bilibili</a> ∙
-    <a href="https://blog.csdn.net/RubiaC">csdn</a>
+<!--     <a href="https://space.bilibili.com/1819812">bilibili</a> ∙
+    <a href="https://blog.csdn.net/RubiaC">csdn</a> -->
   </samp>
 </p>
 
@@ -15,7 +15,7 @@
 
 - ✍️ 就读于计算所，毕业于湖南大学
 - 🌱 努力学习ing
-- 💬 啥也不懂
+- 💬 MLsys, DL Compiler, LLM Simulator
 - 🪵 崩了：https://rubianotion.vercel.app/
 
 &emsp;&emsp; 
