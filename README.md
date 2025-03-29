@@ -21,6 +21,6 @@
 &emsp;&emsp; 
 
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubiacx&theme=transparent" width="60%"> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubiaCx&show_icons=true&hide_border=true&theme=flag-india" width="35%"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubiaCx&show_icons=true&hide_border=true&theme=flag-india" width="30%"> 
 
 <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RubiaCx" /> </div> -->
