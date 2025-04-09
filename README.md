@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://github.com/RubiaCx">github</a> ∙ 
+    <a href="https://github.com/RubiaCx">github</a> 
 <!--     <a href="https://space.bilibili.com/1819812">bilibili</a> ∙
     <a href="https://blog.csdn.net/RubiaC">csdn</a> -->
   </samp>
@@ -13,10 +13,10 @@
 
 ### WELCOME ✨
 
-- ✍️ 就读于计算所，毕业于湖南大学
-- 🌱 努力学习ing
-- 💬 MLsys, DL Compiler
-- 🪵 崩了：https://rubianotion.vercel.app/
+✍️ HNU -> UCAS ICT
+🌱 努力学习ing
+💬 MLsys, DL Compiler
+🪵 崩了：https://rubianotion.vercel.app/
 
 &emsp;&emsp; 
 
